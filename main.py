@@ -2,7 +2,7 @@ temp = dict()
 banco = list()
 
 while True:
-    print('\n1 -> Cadastrar o Usuario')
+    print('1 -> Cadastrar o Usuario')
     print('2 -> Fazer Login')
     print('3 -> Listar Usuarios')
     print('4 -> Sair')
